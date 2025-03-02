@@ -28,13 +28,6 @@
   </a>
 </p>
 
-<!-- Work & Current Focus -->
-<div align="center">
-  <p>🔭 <strong>I’m currently working on projects for</strong> <a href="https://www.outsidethebox.ar/" target="_blank">TÜV Rheinland Argentina (through Outside The Box)</a></p>
-  <p>⚙️ <strong>Carry out projects such as</strong> <a href="https://roadmach.com/" target="_blank">Roadmach Web Platform</a></p>
-  <p>🛠️ <strong>Developed for</strong> <a href="https://villacarlospaz.gov.ar/" target="_blank">Municipalidad de Villa Carlos Paz Digital Systems</a></p>
-</div>
-
 <!-- Companies Logos Section -->
 <div align="center" style="margin-top: 20px;">
   <p><strong>Companies I've Worked With</strong></p>
