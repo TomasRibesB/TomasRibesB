@@ -15,16 +15,14 @@
           Let's Work Together
         </a>
       </p>
+      <p align="center">
+          <img src="https://github-profile-trophy.vercel.app/?username=tomasribesb&theme=darkhub&title=Commits,Repositories,Experience" alt="trophies" style="display: inline-block;" />
+      </p>
     </td>
   </tr>
 </table>
 
 <hr />
-
-<!-- GitHub Trophies (with custom trophy link) -->
-<p align="center">
-    <img src="https://github-profile-trophy.vercel.app/?username=tomasribesb&theme=darkhub&title=Commits,Repositories,Experience" alt="trophies" style="display: inline-block;" />
-</p>
 
 
 <!-- Companies Logos Section -->
