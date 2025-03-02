@@ -1,12 +1,5 @@
 <!-- Profile Header Section -->
-<table>
-  <tr>
-    <!-- Profile Image (Square) -->
-    <td align="center" valign="middle" width="200">
-      <img src="https://tomasribes.net/assets/CV.png" alt="Tomás Ribes" width="150" height="150" style="border-radius: 12px;">
-    </td>
-    <!-- Title, Subtitle & Call-to-Action -->
-    <td align="left" style="padding-left: 20px;">
+<div>
       <h1 style="margin: 0;">Hi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30" alt="Hi">, I'm Tomás Ribes</h1>
       <h3 style="margin: 0; color: #a0aec0;">FullStack Software Developer & Software Engineer</h3>
       <p style="margin: 4px 0;">Passionate about technology and innovation, with full-stack experience and a constant commitment to excellence.</p>
@@ -18,9 +11,7 @@
       <p>
         <img src="https://github-profile-trophy.vercel.app/?username=tomasribesb&theme=darkhub&title=Commits,Repositories,Experience" alt="trophies" style="display: inline-block;" />
       </p>
-    </td>
-  </tr>
-</table>
+</div>
 
 <hr />
 
