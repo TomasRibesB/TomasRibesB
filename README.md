@@ -15,8 +15,8 @@
           Let's Work Together
         </a>
       </p>
-      <p align="center">
-          <img src="https://github-profile-trophy.vercel.app/?username=tomasribesb&theme=darkhub&title=Commits,Repositories,Experience" alt="trophies" style="display: inline-block;" />
+      <p>
+        <img src="https://github-profile-trophy.vercel.app/?username=tomasribesb&theme=darkhub&title=Commits,Repositories,Experience" alt="trophies" style="display: inline-block;" />
       </p>
     </td>
   </tr>
@@ -24,9 +24,8 @@
 
 <hr />
 
-
 <!-- Companies Logos Section -->
-<div align="center" style="margin-top: 20px;">
+<div style="margin-top: 20px; text-align: left;">
   <p><strong>Companies I've Worked With</strong></p>
   <a href="https://www.outsidethebox.ar/" target="_blank">
     <img src="https://tomasribes.net/assets/otb.png" alt="Outside The Box" width="80" style="margin: 0 10px;">
@@ -42,8 +41,8 @@
 <hr />
 
 <!-- Let's Connect Section -->
-<h3 align="center">Let's Connect</h3>
-<p align="center">
+<h3>Let's Connect</h3>
+<p>
   <!-- Email Icon -->
   <a href="mailto:tomasribesb@gmail.com" target="_blank" style="margin: 0 10px;">
     <img src="https://img.icons8.com/material-rounded/24/ffffff/new-post.png" alt="Email" title="Email">
@@ -61,19 +60,19 @@
 <hr />
 
 <!-- Languages & Tools -->
-<h2 align="center">Languages & Tools</h2>
+<h2>Languages & Tools</h2>
 
 <!-- Languages -->
-<h3 align="center">Languages</h3>
-<p align="center">
+<h3>Languages</h3>
+<p>
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" alt="JavaScript" />
   <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript" />
   <img src="https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white" alt="PHP" />
 </p>
 
 <!-- Frontend -->
-<h3 align="center">Frontend</h3>
-<p align="center">
+<h3>Frontend</h3>
+<p>
   <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black" alt="React" />
   <img src="https://img.shields.io/badge/React_Native-61DAFB?style=flat-square&logo=react&logoColor=black" alt="React Native" />
   <img src="https://img.shields.io/badge/Expo-000020?style=flat-square&logo=expo&logoColor=white" alt="Expo" />
@@ -83,8 +82,8 @@
 </p>
 
 <!-- Backend & Tools -->
-<h3 align="center">Backend & Tools</h3>
-<p align="center">
+<h3>Backend & Tools</h3>
+<p>
   <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white" alt="Node.js" />
   <img src="https://img.shields.io/badge/Nest.js-E0234E?style=flat-square&logo=nestjs&logoColor=white" alt="Nest.js" />
   <img src="https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white" alt="Express" />
@@ -95,20 +94,10 @@
 <hr />
 
 <!-- GitHub Stats & Streak -->
-<p align="center">
+<p>
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=tomasribesb&show_icons=true&locale=en&layout=compact&theme=radical" alt="Top Langs" />
 </p>
 
-<p align="center">
+<p>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=tomasribesb&theme=radical" alt="Streak Stats" />
-</p>
-
-<hr />
-
-<!-- Contact Section -->
-<h3 align="center">Get in Touch</h3>
-<p align="center">
-  <a href="mailto:tomasribesb@gmail.com" target="_blank" style="text-decoration: none; color: #fff; background: linear-gradient(to right, #7F00FF, #E100FF); padding: 10px 20px; border-radius: 50px; font-weight: bold;">
-    Contact Me
-  </a>
 </p>
