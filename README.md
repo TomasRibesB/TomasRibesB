@@ -1,26 +1,31 @@
-<!-- Banner Image -->
-<p align="center">
-  <img src="https://tomasribes.net/assets/CV.png" alt="Banner" width="100%" />
-</p>
-
-<h1 align="center">Hi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px" />, I'm Tomás Ribes</h1>
-<h3 align="center">FullStack Software Developer & Software Engineer</h3>
-
-<p align="center">
-  <em>Passionate about technology and innovation, with full-stack experience and a constant commitment to excellence.</em>
-</p>
+<!-- Profile Section with Image on the Left -->
+<table>
+  <tr>
+    <!-- Profile Image (Square) -->
+    <td align="center" valign="middle">
+      <img src="https://tomasribes.net/assets/CV.png" alt="Profile Image" width="150" height="150" />
+    </td>
+    <!-- Title, Subtitle & Description -->
+    <td>
+      <h1>Hi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px" /> I'm Tomás Ribes</h1>
+      <h3>FullStack Software Developer & Software Engineer</h3>
+      <p><em>Passionate about technology and innovation, with full-stack experience and a constant commitment to excellence.</em></p>
+    </td>
+  </tr>
+</table>
 
 <hr />
 
-<!-- GitHub Trophies (excluding Followers, Stars, Issues, PullRequest, Reviews) -->
+<!-- GitHub Trophies (with your custom trophy link) -->
 <p align="center">
   <a href="https://github.com/ryo-ma/github-profile-trophy">
     <img
-      src="https://github-profile-trophy.vercel.app/?username=tomasribesb&theme=darkhub&exclude=Followers,Stars,Issues,PullRequest,Reviews"
+      src="https://github-profile-trophy.vercel.app/?username=tomasribesb&theme=darkhub&title=Commits,Repositories,Experience"
       alt="tomasribesb trophies"
     />
   </a>
 </p>
+
 
 <!-- Work & Current Focus -->
 - 🔭 **I’m currently working on projects for** [TÜV Rheinland Argentina (through Outside The Box) 🏢🔧](https://www.outsidethebox.ar/)  
