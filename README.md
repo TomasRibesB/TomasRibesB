@@ -6,12 +6,14 @@
       <img src="https://tomasribes.net/assets/CV.png" alt="Tomás Ribes" width="150" height="150" style="border-radius: 12px;">
     </td>
     <!-- Title, Subtitle & Call-to-Action -->
-    <td align="left">
+    <td align="left" style="padding-left: 20px;">
       <h1 style="margin: 0;">Hi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30" alt="Hi">, I'm Tomás Ribes</h1>
       <h3 style="margin: 0; color: #a0aec0;">FullStack Software Developer & Software Engineer</h3>
       <p style="margin: 4px 0;">Passionate about technology and innovation, with full-stack experience and a constant commitment to excellence.</p>
       <p>
-        <a href="#contact" style="display: inline-block; padding: 8px 16px; background: linear-gradient(to right, #7F00FF, #E100FF); color: white; border-radius: 9999px; text-decoration: none; font-weight: bold;">Let's Work Together</a>
+        <a href="#contact" style="display: inline-block; padding: 8px 16px; background: linear-gradient(to right, #7F00FF, #E100FF); color: white; border-radius: 9999px; text-decoration: none; font-weight: bold;">
+          Let's Work Together
+        </a>
       </p>
     </td>
   </tr>
@@ -33,13 +35,36 @@
   <p>🛠️ <strong>Developed for</strong> <a href="https://villacarlospaz.gov.ar/" target="_blank">Municipalidad de Villa Carlos Paz Digital Systems</a></p>
 </div>
 
+<!-- Companies Logos Section -->
+<div align="center" style="margin-top: 20px;">
+  <p><strong>Companies I've Worked With</strong></p>
+  <a href="https://www.outsidethebox.ar/" target="_blank">
+    <img src="https://tomasribes.net/assets/otb.png" alt="Outside The Box" width="80" style="margin: 0 10px;">
+  </a>
+  <a href="https://roadmach.com/" target="_blank">
+    <img src="https://tomasribes.net/assets/roadmach.png" alt="Roadmach" width="80" style="margin: 0 10px;">
+  </a>
+  <a href="https://villacarlospaz.gov.ar/" target="_blank">
+    <img src="https://tomasribes.net/assets/vcp.jpg" alt="Municipalidad de Villa Carlos Paz" width="80" style="margin: 0 10px;">
+  </a>
+</div>
+
 <hr />
 
-<!-- Connect with Me -->
-<h3 align="center">Connect with me</h3>
+<!-- Let's Connect Section -->
+<h3 align="center">Let's Connect</h3>
 <p align="center">
-  <a href="https://linkedin.com/in/tomasribesb" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" width="40" height="40">
+  <!-- Email Icon -->
+  <a href="mailto:tomasribesb@gmail.com" target="_blank" style="margin: 0 10px;">
+    <img src="https://img.icons8.com/material-rounded/24/ffffff/new-post.png" alt="Email" title="Email">
+  </a>
+  <!-- Website Icon -->
+  <a href="https://tomasribes.net/" target="_blank" style="margin: 0 10px;">
+    <img src="https://img.icons8.com/material-rounded/24/ffffff/domain.png" alt="Website" title="Website">
+  </a>
+  <!-- LinkedIn Icon -->
+  <a href="https://linkedin.com/in/tomasribesb" target="_blank" style="margin: 0 10px;">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" width="40" height="40" title="LinkedIn">
   </a>
 </p>
 
@@ -91,7 +116,9 @@
 <hr />
 
 <!-- Contact Section -->
-<h3 align="center">Let's Connect</h3>
+<h3 align="center">Get in Touch</h3>
 <p align="center">
-  <a href="mailto:tomasribesb@gmail.com" target="_blank" style="text-decoration: none; color: #fff; background: linear-gradient(to right, #7F00FF, #E100FF); padding: 10px 20px; border-radius: 50px; font-weight: bold;">Contact Me</a>
+  <a href="mailto:tomasribesb@gmail.com" target="_blank" style="text-decoration: none; color: #fff; background: linear-gradient(to right, #7F00FF, #E100FF); padding: 10px 20px; border-radius: 50px; font-weight: bold;">
+    Contact Me
+  </a>
 </p>
