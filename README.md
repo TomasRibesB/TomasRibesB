@@ -1,6 +1,8 @@
 <h1 align="center">Hi 👋, I'm Tomás Ribes</h1>
 <h3 align="center">I'm a FullStack Software Developer & Software Engineer</h3>
 
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=tomasribesb" alt="tomasribesb" /></a> </p>
+
 - 🔭 I’m currently working on proyects for [TÜV Rheinland Argentina (through Outside The Box) 🏢🔧](https://www.outsidethebox.ar/)
 
 - I’m specializing in **React Native & Expo for the frontend and Nest.js for the backend.**
@@ -28,5 +30,3 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=tomasribesb&show_icons=true&locale=en&layout=compact" alt="tomasribesb" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=tomasribesb&show_icons=true&locale=en" alt="tomasribesb" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=tomasribesb&" alt="tomasribesb" /></p>
