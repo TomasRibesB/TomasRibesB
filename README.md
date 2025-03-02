@@ -1,70 +1,64 @@
-<!-- Profile Section with Image on the Left -->
+<!-- Profile Header Section -->
 <table>
   <tr>
     <!-- Profile Image (Square) -->
-    <td align="center" valign="middle">
-      <img src="https://tomasribes.net/assets/CV.png" alt="Profile Image" width="150" height="150" />
+    <td align="center" valign="middle" width="150">
+      <img src="https://tomasribes.net/assets/CV.png" alt="Tomás Ribes" width="150" height="150" style="border-radius: 12px;">
     </td>
-    <!-- Title, Subtitle & Description -->
-    <td>
-      <h1>Hi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px" /> I'm Tomás Ribes</h1>
-      <h3>FullStack Software Developer & Software Engineer</h3>
-      <p><em>Passionate about technology and innovation, with full-stack experience and a constant commitment to excellence.</em></p>
+    <!-- Title, Subtitle & Call-to-Action -->
+    <td align="left">
+      <h1 style="margin: 0;">Hi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30" alt="Hi">, I'm Tomás Ribes</h1>
+      <h3 style="margin: 0; color: #a0aec0;">FullStack Software Developer & Software Engineer</h3>
+      <p style="margin: 4px 0;">Passionate about technology and innovation, with full-stack experience and a constant commitment to excellence.</p>
+      <p>
+        <a href="#contact" style="display: inline-block; padding: 8px 16px; background: linear-gradient(to right, #7F00FF, #E100FF); color: white; border-radius: 9999px; text-decoration: none; font-weight: bold;">Let's Work Together</a>
+      </p>
     </td>
   </tr>
 </table>
 
 <hr />
 
-<!-- GitHub Trophies (with your custom trophy link) -->
+<!-- GitHub Trophies (with custom trophy link) -->
 <p align="center">
-    <img
-      src="https://github-profile-trophy.vercel.app/?username=tomasribesb&theme=darkhub&title=Commits,Repositories,Experience"
-      alt="tomasribesb trophies"
-    />
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=tomasribesb&theme=darkhub&title=Commits,Repositories,Experience" alt="trophies" />
+  </a>
 </p>
 
-
 <!-- Work & Current Focus -->
-- 🔭 **I’m currently working on projects for** [TÜV Rheinland Argentina (through Outside The Box) 🏢🔧](https://www.outsidethebox.ar/)  
-- **I’m specializing in** <strong>React Native & Expo</strong> for the frontend and <strong>Nest.js</strong> for the backend.  
-- ⚙️ **Carry out projects such as** [Roadmach Web Platform 🏗️💻](https://roadmach.com/)  
-- 🛠️ **Developed for** [Municipalidad de Villa Carlos Paz Digital Systems](https://villacarlospaz.gov.ar/)  
-- 👨‍💻 **All of my projects** are available at [My Portfolio](https://tomasribes.net/#projects)  
-- 💬 **Ask me about** <strong>React Native & Expo</strong> and <strong>Nest.js</strong>  
-- 📫 **How to reach me** <strong>tomasribesb@gmail.com</strong>  
-- 📄 **Know about my experiences** [Here](https://tomasribes.net/#experience)
+<div align="center">
+  <p>🔭 <strong>I’m currently working on projects for</strong> <a href="https://www.outsidethebox.ar/" target="_blank">TÜV Rheinland Argentina (through Outside The Box)</a></p>
+  <p>⚙️ <strong>Carry out projects such as</strong> <a href="https://roadmach.com/" target="_blank">Roadmach Web Platform</a></p>
+  <p>🛠️ <strong>Developed for</strong> <a href="https://villacarlospaz.gov.ar/" target="_blank">Municipalidad de Villa Carlos Paz Digital Systems</a></p>
+</div>
 
 <hr />
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-  <a href="https://linkedin.com/in/tomasribesb" target="blank">
-    <img
-      align="center"
-      src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg"
-      alt="tomasribesb"
-      height="30"
-      width="40"
-    />
+<!-- Connect with Me -->
+<h3 align="center">Connect with me</h3>
+<p align="center">
+  <a href="https://linkedin.com/in/tomasribesb" target="_blank">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" width="40" height="40">
   </a>
 </p>
 
 <hr />
 
-<h2 align="left">Languages & Tools:</h2>
+<!-- Languages & Tools -->
+<h2 align="center">Languages & Tools</h2>
 
 <!-- Languages -->
-<h3 align="left">Languages</h3>
-<p align="left">
+<h3 align="center">Languages</h3>
+<p align="center">
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" alt="JavaScript" />
   <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript" />
   <img src="https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white" alt="PHP" />
 </p>
 
 <!-- Frontend -->
-<h3 align="left">Frontend</h3>
-<p align="left">
+<h3 align="center">Frontend</h3>
+<p align="center">
   <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black" alt="React" />
   <img src="https://img.shields.io/badge/React_Native-61DAFB?style=flat-square&logo=react&logoColor=black" alt="React Native" />
   <img src="https://img.shields.io/badge/Expo-000020?style=flat-square&logo=expo&logoColor=white" alt="Expo" />
@@ -74,8 +68,8 @@
 </p>
 
 <!-- Backend & Tools -->
-<h3 align="left">Backend & Tools</h3>
-<p align="left">
+<h3 align="center">Backend & Tools</h3>
+<p align="center">
   <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white" alt="Node.js" />
   <img src="https://img.shields.io/badge/Nest.js-E0234E?style=flat-square&logo=nestjs&logoColor=white" alt="Nest.js" />
   <img src="https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white" alt="Express" />
@@ -87,9 +81,17 @@
 
 <!-- GitHub Stats & Streak -->
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=tomasribesb&show_icons=true&locale=en&layout=compact&theme=radical" alt="tomasribesb" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=tomasribesb&show_icons=true&locale=en&layout=compact&theme=radical" alt="Top Langs" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=tomasribesb&theme=radical" alt="tomasribesb" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=tomasribesb&theme=radical" alt="Streak Stats" />
+</p>
+
+<hr />
+
+<!-- Contact Section -->
+<h3 align="center">Let's Connect</h3>
+<p align="center">
+  <a href="mailto:tomasribesb@gmail.com" target="_blank" style="text-decoration: none; color: #fff; background: linear-gradient(to right, #7F00FF, #E100FF); padding: 10px 20px; border-radius: 50px; font-weight: bold;">Contact Me</a>
 </p>
