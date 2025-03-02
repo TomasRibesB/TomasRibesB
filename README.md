@@ -1,6 +1,6 @@
 <!-- Banner Image -->
 <p align="center">
-  <img src="https://media.licdn.com/dms/image/v2/D4D16AQFP0DB1hEk1eg/profile-displaybackgroundimage-shrink_350_1400/B4DZUM1tIEG8AY-/0/1739677161446?e=1746662400&v=beta&t=KMsCAQc15CAldfKI8FfnP5QT0YFlEYv3LBB4MzV4pR8" alt="Banner" width="100%" />
+  <img src="https://tomasribes.net/assets/CV.png" alt="Banner" width="100%" />
 </p>
 
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px" />, I'm Tomás Ribes</h1>
@@ -12,7 +12,7 @@
 
 <hr />
 
-<!-- GitHub Trophies (excluding followers, stars, issues, pull requests, reviews) -->
+<!-- GitHub Trophies (excluding Followers, Stars, Issues, PullRequest, Reviews) -->
 <p align="center">
   <a href="https://github.com/ryo-ma/github-profile-trophy">
     <img
