@@ -22,11 +22,9 @@
 <hr />
 
 <!-- GitHub Trophies (with custom trophy link) -->
-<div style="text-align: center;">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
+<p align="center">
     <img src="https://github-profile-trophy.vercel.app/?username=tomasribesb&theme=darkhub&title=Commits,Repositories,Experience" alt="trophies" style="display: inline-block;" />
-  </a>
-</div>
+</p>
 
 
 <!-- Companies Logos Section -->
