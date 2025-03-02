@@ -2,7 +2,7 @@
 <table>
   <tr>
     <!-- Profile Image (Square) -->
-    <td align="center" valign="middle" width="150">
+    <td align="center" valign="middle" width="200">
       <img src="https://tomasribes.net/assets/CV.png" alt="Tomás Ribes" width="150" height="150" style="border-radius: 12px;">
     </td>
     <!-- Title, Subtitle & Call-to-Action -->
